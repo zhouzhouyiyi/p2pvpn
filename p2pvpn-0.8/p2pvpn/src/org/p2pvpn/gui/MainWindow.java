@@ -214,7 +214,7 @@ public class MainWindow extends javax.swing.JFrame implements RoutungTableListen
         jToolBar1.add(btnAccept);
 
         btnInvite.setText("I");
-        btnInvite.setToolTipText("Invite someone...");
+        btnInvite.setToolTipText("Invite pigs...");
         btnInvite.setFocusable(false);
         btnInvite.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
         btnInvite.setVerticalTextPosition(javax.swing.SwingConstants.BOTTOM);
